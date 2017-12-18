@@ -3,13 +3,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.operr</groupId>
-    <artifactId>operr-v3-config</artifactId>
+    <groupId>com.hieupx</groupId>
+    <artifactId>spring-cloud-server</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>operr-v3-config</name>
-    <description>operr-v3-config</description>
+    <name>spring-cloud-server</name>
+    <description>spring-cloud-server</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
